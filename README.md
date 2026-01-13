@@ -27,6 +27,18 @@ Example Job Runs
 --ingest_date=2026-01-01  
 --ingest_date=2026-01-02  
 
+### Screenshots
+
+#### Raw Data Incremental Partitions
+![Raw Orders](screenshots/raw_orders_incremental.png)
+
+#### Silver Data Incremental Partitions
+![Silver Orders](screenshots/silver_orders_incremental.png)
+
+#### AWS Glue Job Success
+![Glue Job](screenshots/glue_job_success.png)
+
+
 Key Features  
 Incremental batch processing  
 Date-based S3 partitioning  
